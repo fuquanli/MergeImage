@@ -1,0 +1,11 @@
+F:\TestProject\图片处理\MergeImage\MergeImage\bin\Debug\netcoreapp2.1\MergeImage.deps.json
+F:\TestProject\图片处理\MergeImage\MergeImage\bin\Debug\netcoreapp2.1\MergeImage.runtimeconfig.json
+F:\TestProject\图片处理\MergeImage\MergeImage\bin\Debug\netcoreapp2.1\MergeImage.runtimeconfig.dev.json
+F:\TestProject\图片处理\MergeImage\MergeImage\bin\Debug\netcoreapp2.1\MergeImage.dll
+F:\TestProject\图片处理\MergeImage\MergeImage\obj\Debug\netcoreapp2.1\MergeImage.csprojAssemblyReference.cache
+F:\TestProject\图片处理\MergeImage\MergeImage\obj\Debug\netcoreapp2.1\MergeImage.csproj.CoreCompileInputs.cache
+F:\TestProject\图片处理\MergeImage\MergeImage\obj\Debug\netcoreapp2.1\MergeImage.AssemblyInfoInputs.cache
+F:\TestProject\图片处理\MergeImage\MergeImage\obj\Debug\netcoreapp2.1\MergeImage.AssemblyInfo.cs
+F:\TestProject\图片处理\MergeImage\MergeImage\bin\Debug\netcoreapp2.1\MergeImage.pdb
+F:\TestProject\图片处理\MergeImage\MergeImage\obj\Debug\netcoreapp2.1\MergeImage.dll
+F:\TestProject\图片处理\MergeImage\MergeImage\obj\Debug\netcoreapp2.1\MergeImage.pdb

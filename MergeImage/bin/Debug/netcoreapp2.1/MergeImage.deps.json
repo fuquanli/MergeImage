@@ -1,0 +1,167 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "f7d4f76c44f267d36e9f1c4643150c2ef429ab87"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "MergeImage/1.0.0": {
+        "dependencies": {
+          "SixLabors.Fonts": "1.0.0-beta0009",
+          "SixLabors.ImageSharp": "1.0.0-beta0007",
+          "SixLabors.ImageSharp.Drawing": "1.0.0-beta0007",
+          "SixLabors.Shapes": "1.0.0-beta0009",
+          "SixLabors.Shapes.Text": "1.0.0-beta0009"
+        },
+        "runtime": {
+          "MergeImage.dll": {}
+        }
+      },
+      "Microsoft.Net.Compilers.Toolset/3.1.0": {},
+      "SixLabors.Core/1.0.0-beta0008": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.5.1"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/SixLabors.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SixLabors.Fonts/1.0.0-beta0009": {
+        "dependencies": {
+          "SixLabors.Core": "1.0.0-beta0008"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SixLabors.Fonts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SixLabors.ImageSharp/1.0.0-beta0007": {
+        "dependencies": {
+          "Microsoft.Net.Compilers.Toolset": "3.1.0",
+          "SixLabors.Core": "1.0.0-beta0008",
+          "System.Runtime.CompilerServices.Unsafe": "4.5.1"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/SixLabors.ImageSharp.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SixLabors.ImageSharp.Drawing/1.0.0-beta0007": {
+        "dependencies": {
+          "Microsoft.Net.Compilers.Toolset": "3.1.0",
+          "SixLabors.Fonts": "1.0.0-beta0009",
+          "SixLabors.ImageSharp": "1.0.0-beta0007",
+          "SixLabors.Shapes": "1.0.0-beta0009"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/SixLabors.ImageSharp.Drawing.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SixLabors.Shapes/1.0.0-beta0009": {
+        "dependencies": {
+          "SixLabors.Core": "1.0.0-beta0008"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SixLabors.Shapes.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SixLabors.Shapes.Text/1.0.0-beta0009": {
+        "dependencies": {
+          "SixLabors.Fonts": "1.0.0-beta0009",
+          "SixLabors.Shapes": "1.0.0-beta0009"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SixLabors.Shapes.Text.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.5.1": {
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "4.0.4.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MergeImage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Net.Compilers.Toolset/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gAMarE5hdKl4E1zIkDD1mpFGGOdQU8SIkwh4CTERBnR+TraSHGKuCT4MEmA4UacqTlknfH88lWwxTHz8e2bHYg==",
+      "path": "microsoft.net.compilers.toolset/3.1.0",
+      "hashPath": "microsoft.net.compilers.toolset.3.1.0.nupkg.sha512"
+    },
+    "SixLabors.Core/1.0.0-beta0008": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-U8aIBSY5ciTKYzwuW5AdEjnC0ApFAGxB4HAHFzKCSDlslSpxhmiObc0pRx/eOkFvtTytswhzirSntcKDW5Hejw==",
+      "path": "sixlabors.core/1.0.0-beta0008",
+      "hashPath": "sixlabors.core.1.0.0-beta0008.nupkg.sha512"
+    },
+    "SixLabors.Fonts/1.0.0-beta0009": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-huhxQ0nzi6V2FFO1QmSSFF3K5CU5VxxLZLsb6jfAnQIK/FPfc8zivbscJb4oeqg/1Vsv1JdsCzFedltm+Gz1KQ==",
+      "path": "sixlabors.fonts/1.0.0-beta0009",
+      "hashPath": "sixlabors.fonts.1.0.0-beta0009.nupkg.sha512"
+    },
+    "SixLabors.ImageSharp/1.0.0-beta0007": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-irirajSOZi+C9E7jo1JkssSzZrfvyPpxMKf7lWALmY7ofye4NdVytenvVtmvCbV1FG1K73+2wysJ+rC6uEmTkA==",
+      "path": "sixlabors.imagesharp/1.0.0-beta0007",
+      "hashPath": "sixlabors.imagesharp.1.0.0-beta0007.nupkg.sha512"
+    },
+    "SixLabors.ImageSharp.Drawing/1.0.0-beta0007": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SDAcG+wc6cYcY0TU2+gA+MK0gkLQsYPcMD6+Ysj/OlmNaOZGkfvivOpxpIKe1757E/Ys7Alji70j5DGnr+XBFA==",
+      "path": "sixlabors.imagesharp.drawing/1.0.0-beta0007",
+      "hashPath": "sixlabors.imagesharp.drawing.1.0.0-beta0007.nupkg.sha512"
+    },
+    "SixLabors.Shapes/1.0.0-beta0009": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bAo8BKYIKLgB63TFc3R+upMiub53BV5apguMYXc2ux1XrQG1H/RaqtsgdP+tYGVYLK9j7N6J652GqPNyrdyKsg==",
+      "path": "sixlabors.shapes/1.0.0-beta0009",
+      "hashPath": "sixlabors.shapes.1.0.0-beta0009.nupkg.sha512"
+    },
+    "SixLabors.Shapes.Text/1.0.0-beta0009": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fdYsbFsjQ7cZBbEHotET6iTYZ4NTHqSXP8ta4Hln4J5sJeqNo2BSDUoxHkLaHbRGuutsqCEm7XUI5r9YVmla3A==",
+      "path": "sixlabors.shapes.text/1.0.0-beta0009",
+      "hashPath": "sixlabors.shapes.text.1.0.0-beta0009.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9r+hFzL5qRJfAzR6AuccmYYtxTneKJTr+9aSf+A2G5EZloSG3FsAUZBOJMAAhNnhfP6mwCGpUwzTjaOjv4b5FA==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.1",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+    }
+  }
+}
